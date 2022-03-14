@@ -1,0 +1,30 @@
+name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency
+Data Analyst,Devire Sp. z o.o.,N/A,data_analyst,Warsaw,POL,10000,20000,PLN
+Junior Data Analyst,ALTEN Polska,N/A,data_analyst,Gdańsk,POL,6300,10500,PLN
+Product Data Analyst,No Fluff Jobs,N/A,data_analyst,Zdalna,N/A,12000,18000,PLN
+UI Designer,HL Tech,N/A,data_analyst,Zdalna,N/A,8000,11000,PLN
+Data Analyst (Private Equity),Devire,N/A,data_analyst,Warsaw,POL,12000,18000,PLN
+Sales Development Representative,Netguru,N/A,data_analyst,Zdalna,N/A,5000,7600,PLN
+Data Analyst,BlueSoft Sp. z o.o.,N/A,data_analyst,Zdalna,N/A,15120,21840,PLN
+Senior Product Designer,Netguru,N/A,data_analyst,Zdalna,N/A,16800,24500,PLN
+Data Analyst,"Secret Sauce Partners, Inc.",N/A,data_analyst,Zdalna,N/A,8799,17598,PLN
+Business Analyst/Senior Business Analyst,SoftServe,N/A,data_analyst,Zdalna,N/A,11000,21500,PLN
+Power BI Developer / Data Analyst,Objectivity,N/A,data_analyst,Zdalna,N/A,14000,20000,PLN
+Junior Data Analyst,Coinfirm,mysql,data_analyst,Zdalna,N/A,3100,5000,PLN
+Data Analyst,Packhelp,SQL,data_analyst,Warsaw,POL,13000,15000,PLN
+Data analyst (analityk danych),Alterdata.io sp. z o.o.,N/A,data_analyst,Zdalna,N/A,12000,18000,PLN
+Junior Application Consultant,Syncron Sp. z o.o.,N/A,data_analyst,Zdalna,N/A,5500,8300,PLN
+Junior Data Analyst,Colliers Poland,N/A,data_analyst,Warszawa,POL,8500,12000,PLN
+Data Business Analyst (Remote),Mindbox,N/A,data_analyst,Zdalna,N/A,21000,25095,PLN
+Data Analyst - 100% REMOTE,AVENGA,N/A,data_analyst,Zdalna,N/A,18480,21840,PLN
+UX Researcher,NOVOMATIC Technologies Poland S.A.,N/A,data_analyst,Zdalna,N/A,10080,18970,PLN
+Data Analyst and Developer,Schneider Electric,N/A,data_analyst,Zdalna,N/A,16149,24234,PLN
+Digital Marketing Business Analyst,Elitmind,N/A,data_analyst,Zdalna,N/A,14000,21000,PLN
+Data Analyst,Onwelo S.A.,N/A,data_analyst,Zdalna,N/A,13650,23100,PLN
+Javascript Developer,Sigma IT Polska,javascript,data_analyst,Zdalna,N/A,20000,22340,PLN
+Senior Data Analyst,Devire,N/A,data_analyst,Zdalna,N/A,18000,24000,PLN
+Data Analyst - ML Platform,FLYR Poland sp.z.o.o,N/A,data_analyst,Kraków,POL,10000,16000,PLN
+Junior Data Analyst,John Leggy,N/A,data_analyst,Warszawa,POL,5000,7000,PLN
+Business Analyst,Link Group,N/A,data_analyst,Zdalna,N/A,13440,25200,PLN
+Data Analyst,John Leggy,N/A,data_analyst,Warszawa,POL,7000,12000,PLN
+Product Data Analyst,Jamf,N/A,data_analyst,Zdalna,N/A,6500,8500,PLN

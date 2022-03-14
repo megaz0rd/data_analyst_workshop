@@ -1,0 +1,97 @@
+name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency
+Data Engineer,dentsu Polska,SQL,data_engineer,Warsaw,POL,13000,16000,PLN
+Remote Data Engineer,Mindbox S.A.,N/A,data_engineer,Zdalna,N/A,23100,30450,PLN
+Data Engineer,Avanade Poland,SQL,data_engineer,Warszawa,POL,15000,25000,PLN
+Data Engineer (Microsoft),Onwelo S.A.,N/A,data_engineer,Zdalna,N/A,13650,17850,PLN
+Data Engineer,Phorest,looker,data_engineer,Zdalna,N/A,16773,23962,PLN
+Data Engineer,Ringier Axel Springer Tech,python,data_engineer,Zdalna,N/A,10100,16900,PLN
+Scala Big Data Engineer,VirtusLab,spark,data_engineer,Zdalna,N/A,15000,22000,PLN
+Software Engineer (Scala) | Big Data,Adform Sp. z o.o.,scala,data_engineer,Zdalna,N/A,18000,21000,PLN
+Data Engineer- Junior,AVENGA,python,data_engineer,Zdalna,N/A,13440,16800,PLN
+Remote Data Engineer,Codahead,java,data_engineer,Zdalna,N/A,13440,22008,PLN
+Data Engineer Junior,AVENGA,python,data_engineer,Zdalna,N/A,13440,16800,PLN
+Senior Data Engineer,DATAPAO Kft.,python,data_engineer,Zdalna,N/A,13827,22626,PLN
+Junior Data Engineer,DATAPAO Kft.,python,data_engineer,Budapest,HUN,7542,9427,PLN
+Senior Data Engineer,Hearsay,python,data_engineer,Budapest,HUN,12570,20112,PLN
+Data Engineer,IncepTech Kft.,N/A,data_engineer,Budapest,HUN,11313,22626,PLN
+Data Engineer,Manuvia Expert Recruitment,N/A,data_engineer,Budapest,HUN,10056,16341,PLN
+Data Engineer,Devire,N/A,data_engineer,Zdalna,N/A,16000,20000,PLN
+Data Engineer-Senior,AVENGA,python,data_engineer,Zdalna,N/A,18480,20160,PLN
+Data Engineer-Pofessional,AVENGA,python,data_engineer,Zdalna,N/A,20160,21840,PLN
+Data Engineer-Pofessional,AVENGA,python,data_engineer,Zdalna,N/A,15960,16968,PLN
+Data Engineer-Pofessional,AVENGA,python,data_engineer,Zdalna,N/A,13440,16800,PLN
+Data Engineer,IIIT,python,data_engineer,Zdalna,N/A,20000,30000,PLN
+Data Engineer (Blockchain Analytics),Ramp Network,BigQuery,data_engineer,Warszawa,POL,18000,24000,PLN
+Senior Scala Big Data Engineer,VirtusLab,scala,data_engineer,Zdalna,N/A,21000,27000,PLN
+Remote Mid/Senior Data Engineer,Planday,N/A,data_engineer,Zdalna,N/A,20000,30000,PLN
+GCP Data Engineer,GetInData,Google Cloud Platform,data_engineer,Zdalna,N/A,25200,33600,PLN
+Remote Data Engineer (Mid-Level),Propdo,AWS,data_engineer,Zdalna,N/A,12000,15000,PLN
+Big Data Engineer with Java,Devire Sp. z o.o.,java,data_engineer,Zdalna,N/A,26880,31920,PLN
+Senior Data Engineer,IIIT,aws,data_engineer,Zdalna,N/A,25000,34000,PLN
+Remote Data Engineer,TantusData,spark,data_engineer,Zdalna,N/A,28000,40000,PLN
+Data Engineer,Avanade Poland,azure,data_engineer,Zdalna,N/A,15120,25200,PLN
+Junior Data Engineer,kaes,SQL,data_engineer,Malbork,POL,4000,7000,PLN
+Data Engineer,Devire,SQL,data_engineer,Zdalna,N/A,31920,36960,PLN
+Data & Process Engineer (Chemical Eng.),IIIT,N/A,data_engineer,Zdalna,N/A,25000,34000,PLN
+Azure Big Data Engineer with Python,Sii Polska,Azure,data_engineer,Zdalna,N/A,16800,29400,PLN
+DWH/Big Data Engineer,Sii Polska,N/A,data_engineer,Warszawa,POL,21000,26250,PLN
+Regular/Senior Cloud Data Engineer,IHS Markit,SQL,data_engineer,Zdalna,N/A,13000,19000,PLN
+Data Engineer - Technical Leader,Acaisoft Poland Sp. z.o.o,python,data_engineer,Zdalna,N/A,27000,35000,PLN
+Senior/Expert Data Engineer,Acaisoft Poland Sp. z.o.o,python,data_engineer,Zdalna,N/A,20000,33000,PLN
+Data Engineer - Technical Leader,Acaisoft Poland Sp. z.o.o,python,data_engineer,Zdalna,N/A,27000,35000,PLN
+Backend Engineer - Data Platform,Sumo Logic,N/A,data_engineer,Zdalna,N/A,20000,28000,PLN
+Data Engineer,AXA Avanssur SA Spółka Akcyjna Oddział II w Polsce,spark,data_engineer,Zdalna,N/A,17000,29000,PLN
+Senior Data Engineer (Data Science),BlackSwan Technologies,python,data_engineer,Zdalna,N/A,18000,26000,PLN
+Senior Big Data Engineer,Devire,spark,data_engineer,Zdalna,N/A,26000,32000,PLN
+Junior Data Engineer,Business Reporting - Advisory Group (BRAG),N/A,data_engineer,Zdalna,N/A,7500,10000,PLN
+Data Quality Engineer,Devire,python,data_engineer,Zdalna,N/A,20000,20000,PLN
+Mid / Senior Cloud Data Engineer,Capgemini,spark,data_engineer,Krakow,POL,13000,20000,PLN
+Senior Data Engineer (Data Science Hub),Allegro,python,data_engineer,Warszawa,POL,16500,22500,PLN
+Mid Data Engineer (ETL /AWS /Snowflake),"Svitla Systems, Inc.",N/A,data_engineer,Zdalna,N/A,15292,24031,PLN
+Python Engineer (retraining to Big Data),SoftServe Poland,python,data_engineer,Zdalna,N/A,13000,23000,PLN
+Data Engineer-Professional,AVENGA,python,data_engineer,Zdalna,N/A,16464,16800,PLN
+BI Data Engineer,Link Group,N/A,data_engineer,Zdalna,N/A,15120,18480,PLN
+Data Engineer (Data Science Hub),Allegro,python,data_engineer,Warszawa,POL,12500,17000,PLN
+IT Data Engineer,B. Braun Business Services Poland,N/A,data_engineer,Poznań,POL,5000,7500,PLN
+Azure Data Engineer,Onwelo S.A.,Azure,data_engineer,Zdalna,N/A,13650,23100,PLN
+Data Engineer,Insight (Division of nexergroup.com),N/A,data_engineer,Zdalna,N/A,16000,26200,PLN
+Data Engineer with Python,Lingaro,python,data_engineer,Zdalna,N/A,13440,20160,PLN
+Senior Data Science Engineer,NavAlgo,N/A,data_engineer,Zdalna,N/A,23962,31949,PLN
+Junior Data Engineer,FOTC,SQL,data_engineer,Zdalna,N/A,5500,7500,PLN
+SQL Data Engineer,Onwelo S.A.,N/A,data_engineer,Zdalna,N/A,13650,16800,PLN
+Mid Python Data Engineer,Acaisoft Poland Sp. z.o.o,python,data_engineer,Zdalna,N/A,12000,19000,PLN
+Azure Data Engineer,Alterdata.io sp. z o.o.,data engineering,data_engineer,Zdalna,N/A,14000,22000,PLN
+Lead Operational Data Engineer,Link Group Sp. z o. o.,N/A,data_engineer,Zdalna,N/A,30240,33600,PLN
+Senior Operational Data Engineer,Link Group Sp. z o. o.,N/A,data_engineer,Zdalna,N/A,25200,30240,PLN
+Data Engineer,esky.pl S.A.,python,data_engineer,Zdalna,N/A,11000,14000,PLN
+Operational Data Engineer,Link Group Sp. z o. o.,N/A,data_engineer,Zdalna,N/A,20160,23520,PLN
+Big Data Engineer,Allegro,spark,data_engineer,Poznań,POL,12500,17000,PLN
+Senior Big Data Engineer,Allegro,spark,data_engineer,Poznań,POL,16500,22500,PLN
+Data Engineer,Surfer,python,data_engineer,Zdalna,N/A,15000,30000,PLN
+Data Engineer,Orange Polska,python,data_engineer,Warszawa,POL,9000,18000,PLN
+ETL Data Engineer-Professional,AVENGA,python,data_engineer,Zdalna,N/A,16464,16800,PLN
+Remote Big Data Software Engineer,SoftServe,hadoop,data_engineer,Zdalna,N/A,16000,24000,PLN
+Senior Data & Energy Engineer,IIIT,N/A,data_engineer,Zdalna,N/A,25000,34000,PLN
+Data Engineer/ SQL Developer,CBRE Business Services Organisation,SQL,data_engineer,Zdalna,N/A,17000,23000,PLN
+Python Data Engineer,Placewise,python,data_engineer,Kraków,POL,17000,21000,PLN
+MLOps / Data Science Engineer,Volue,N/A,data_engineer,Gdańsk,POL,18500,23500,PLN
+Data Engineer,Link Group,N/A,data_engineer,Zdalna,N/A,19169,31150,PLN
+Data Warehouse Engineer,Zonda Exchange,sql,data_engineer,Zdalna,N/A,17000,32000,PLN
+Lead Data Engineer  (Remote),Mindbox,N/A,data_engineer,Zdalna,N/A,29400,32550,PLN
+Data Engineer,STX Next,spark,data_engineer,Zdalna,N/A,16800,25200,PLN
+Azure Data Engineer with PySpark,Lingaro,Azure,data_engineer,Zdalna,N/A,26880,30240,PLN
+"Data Engineer (SQL, Python, Cloud)",Alterdata.io sp. z o.o.,data engineering,data_engineer,Zdalna,N/A,14000,22000,PLN
+Remote Senior AWS Data Engineer,ClearScale,scala,data_engineer,Zdalna,N/A,28000,38000,PLN
+DWH/Big Data Engineer,Sii Polska,N/A,data_engineer,Warszawa,POL,21000,26250,PLN
+Senior Data Analytics Engineer,Coforge,N/A,data_engineer,Zdalna,N/A,46200,46200,PLN
+Middle/Senior Data Engineer (Python),Provectus,N/A,data_engineer,Zdalna,N/A,10923,21847,PLN
+Senior Scala Big Data Engineer,Altimetrik Poland,spark,data_engineer,Zdalna,N/A,20000,28000,PLN
+Senior Data Engineer,Coople,N/A,data_engineer,Zdalna,N/A,18000,33000,PLN
+Data Engineer,GetInData,java,data_engineer,Zdalna,N/A,20160,30240,PLN
+Data Engineer,GetInData,aws,data_engineer,Zdalna,N/A,20160,30240,PLN
+Data Scientist / ML Engineer,SpyroSoft,N/A,data_engineer,Wroclaw,POL,18480,21840,PLN
+Data Engineer,Devire,python,data_engineer,Zdalna,N/A,13440,18480,PLN
+Remote Data Science Engineer,apreel Sp. z o.o.,python,data_engineer,Zdalna,N/A,20160,28560,PLN
+Data Engineer,Shiji Poland,spark,data_engineer,Zdalna,N/A,15000,20000,PLN
+Data Engineer,Sollers Consulting,N/A,data_engineer,Warszawa,POL,13000,18000,PLN
+BI Developer / Data Engineer,Objectivity,N/A,data_engineer,Zdalna,N/A,17600,25000,PLN

@@ -1,0 +1,13 @@
+name,company,technology,job,location,salary.low,salary.high,salary.currency,location.city,location.country
+Data Engineer,Link Group,N/A,data_engineer,Location not given,19169,31150,PLN,,
+Data Warehouse Engineer,Zonda Exchange,sql,data_engineer,Location not given,17000,32000,PLN,,
+Lead Data Engineer  (Remote),Mindbox,N/A,data_engineer,Location not given,29400,32550,PLN,,
+Data Engineer,STX Next,spark,data_engineer,Location not given,16800,25200,PLN,,
+Azure Data Engineer with PySpark,Lingaro,Azure,data_engineer,Location not given,26880,30240,PLN,,
+"Data Engineer (SQL, Python, Cloud)",Alterdata.io sp. z o.o.,data engineering,data_engineer,Location not given,14000,22000,PLN,,
+Remote Senior AWS Data Engineer,ClearScale,scala,data_engineer,Location not given,28000,38000,PLN,,
+DWH/Big Data Engineer,Sii Polska,N/A,data_engineer,,21000,26250,PLN,Warszawa,POL
+Senior Data Analytics Engineer,Coforge,N/A,data_engineer,Location not given,46200,46200,PLN,,
+Middle/Senior Data Engineer (Python),Provectus,N/A,data_engineer,Location not given,10923,21847,PLN,,
+Senior Scala Big Data Engineer,Altimetrik Poland,spark,data_engineer,Location not given,20000,28000,PLN,,
+Senior Data Engineer,Coople,N/A,data_engineer,Location not given,18000,33000,PLN,,

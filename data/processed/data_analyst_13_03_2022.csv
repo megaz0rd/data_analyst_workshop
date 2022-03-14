@@ -1,0 +1,30 @@
+name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency,salary.avg,is_senior
+data analyst,Devire Sp. z o.o.,,data_analyst,warszawa,POL,10000,20000,PLN,15000.0,False
+junior data analyst,ALTEN Polska,,data_analyst,gdańsk,POL,6300,10500,PLN,8400.0,False
+product data analyst,No Fluff Jobs,,data_analyst,zdalna,,12000,18000,PLN,15000.0,False
+ui designer,HL Tech,,data_analyst,zdalna,,8000,11000,PLN,9500.0,False
+data analyst (private equity),Devire,,data_analyst,warszawa,POL,12000,18000,PLN,15000.0,False
+sales development representative,Netguru,,data_analyst,zdalna,,5000,7600,PLN,6300.0,False
+data analyst,BlueSoft Sp. z o.o.,,data_analyst,zdalna,,15120,21840,PLN,18480.0,False
+senior product designer,Netguru,,data_analyst,zdalna,,16800,24500,PLN,20650.0,True
+data analyst,"Secret Sauce Partners, Inc.",,data_analyst,zdalna,,8799,17598,PLN,13198.5,False
+business analyst/senior business analyst,SoftServe,,data_analyst,zdalna,,11000,21500,PLN,16250.0,True
+power bi developer / data analyst,Objectivity,,data_analyst,zdalna,,14000,20000,PLN,17000.0,False
+junior data analyst,Coinfirm,mysql,data_analyst,zdalna,,3100,5000,PLN,4050.0,False
+data analyst,Packhelp,SQL,data_analyst,warszawa,POL,13000,15000,PLN,14000.0,False
+data analyst (analityk danych),Alterdata.io sp. z o.o.,,data_analyst,zdalna,,12000,18000,PLN,15000.0,False
+junior application consultant,Syncron Sp. z o.o.,,data_analyst,zdalna,,5500,8300,PLN,6900.0,False
+junior data analyst,Colliers Poland,,data_analyst,warszawa,POL,8500,12000,PLN,10250.0,False
+data business analyst (remote),Mindbox,,data_analyst,zdalna,,21000,25095,PLN,23047.5,False
+data analyst - 100% remote,AVENGA,,data_analyst,zdalna,,18480,21840,PLN,20160.0,False
+ux researcher,NOVOMATIC Technologies Poland S.A.,,data_analyst,zdalna,,10080,18970,PLN,14525.0,False
+data analyst and developer,Schneider Electric,,data_analyst,zdalna,,16149,24234,PLN,20191.5,False
+digital marketing business analyst,Elitmind,,data_analyst,zdalna,,14000,21000,PLN,17500.0,False
+data analyst,Onwelo S.A.,,data_analyst,zdalna,,13650,23100,PLN,18375.0,False
+javascript developer,Sigma IT Polska,javascript,data_analyst,zdalna,,20000,22340,PLN,21170.0,False
+senior data analyst,Devire,,data_analyst,zdalna,,18000,24000,PLN,21000.0,True
+data analyst - ml platform,FLYR Poland sp.z.o.o,,data_analyst,kraków,POL,10000,16000,PLN,13000.0,False
+junior data analyst,John Leggy,,data_analyst,warszawa,POL,5000,7000,PLN,6000.0,False
+business analyst,Link Group,,data_analyst,zdalna,,13440,25200,PLN,19320.0,False
+data analyst,John Leggy,,data_analyst,warszawa,POL,7000,12000,PLN,9500.0,False
+product data analyst,Jamf,,data_analyst,zdalna,,6500,8500,PLN,7500.0,False

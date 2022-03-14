@@ -1,0 +1,27 @@
+,name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency,salary.avg,is_senior
+0,data scientist,Altimetrik Poland,AWS,data_scientist,zdalna,,18000,22000,PLN,20000.0,False
+1,data scientist,GetInData,python,data_scientist,zdalna,,20160,30240,PLN,25200.0,False
+2,senior data scientist,IIIT,python,data_scientist,zdalna,,20000,28000,PLN,24000.0,True
+3,junior data scientist,Cenatorium,python,data_scientist,warszawa,POL,4500,6500,PLN,5500.0,False
+4,data scientist,Grupa Invicta,,data_scientist,sopot,POL,7000,12500,PLN,9750.0,False
+5,data scientist,Manuvia Expert Recruitment,,data_scientist,budapest,HUN,10684,13827,PLN,12255.5,False
+6,data scientist (mid/senior),Onwelo S.A.,,data_scientist,zdalna,,13650,17850,PLN,15750.0,True
+7,lead data scientist,Adform Sp. z o.o.,hadoop,data_scientist,warsaw,POL,22000,30000,PLN,26000.0,False
+8,remote senior data scientist,Silent Eight,python,data_scientist,zdalna,,21000,25500,PLN,23250.0,True
+9,data scientist,SKYBLU,,data_scientist,zdalna,,10080,20160,PLN,15120.0,False
+10,senior data scientist,InData Labs,data science,data_scientist,zdalna,,19169,28754,PLN,23961.5,True
+11,data scientist / ml engineer,SpyroSoft,,data_scientist,wroclaw,POL,18480,21840,PLN,20160.0,False
+12,expert data scientist,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,,data_scientist,zdalna,,10000,16000,PLN,13000.0,False
+13,senior data scientist,Moneyflow,python,data_scientist,zdalna,,14377,19169,PLN,16773.0,True
+14,remote data scientist,AVENGA,python,data_scientist,zdalna,,15120,24360,PLN,19740.0,False
+15,remote data science engineer,apreel Sp. z o.o.,python,data_scientist,zdalna,,20160,28560,PLN,24360.0,False
+16,senior data scientist,Ework Group,spark,data_scientist,zdalna,,18000,25000,PLN,21500.0,True
+17,data scientist,Pixel Technology Sp. z o.o.,python,data_scientist,łódź,POL,8000,16000,PLN,12000.0,False
+18,senior data scientist / team lead,Link Group,,data_scientist,warsaw,POL,17000,19000,PLN,18000.0,True
+19,data scientist,ReSpo.Vision,python,data_scientist,warszawa,POL,13000,20000,PLN,16500.0,False
+20,junior data scientist,EMPIK S. A.,python,data_scientist,warszawa,POL,4000,8000,PLN,6000.0,False
+21,data scientist,Orange Polska,python,data_scientist,warszawa,POL,9000,18000,PLN,13500.0,False
+22,remote data scientist,Addepto,python,data_scientist,zdalna,,16800,23520,PLN,20160.0,False
+23,remote data scientist,Divante S.A.,python,data_scientist,zdalna,,13272,18648,PLN,15960.0,False
+24,senior data scientist nlp,BlackSwan Technologies,python,data_scientist,zdalna,,16000,26000,PLN,21000.0,True
+25,senior data scientist,Link Group,python,data_scientist,zdalna,,30240,33600,PLN,31920.0,True

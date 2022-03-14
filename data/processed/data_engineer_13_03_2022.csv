@@ -1,0 +1,97 @@
+name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency,salary.avg,is_senior
+data engineer,dentsu Polska,SQL,data_engineer,warszawa,POL,13000,16000,PLN,14500.0,False
+remote data engineer,Mindbox S.A.,,data_engineer,zdalna,,23100,30450,PLN,26775.0,False
+data engineer,Avanade Poland,SQL,data_engineer,warszawa,POL,15000,25000,PLN,20000.0,False
+data engineer (microsoft),Onwelo S.A.,,data_engineer,zdalna,,13650,17850,PLN,15750.0,False
+data engineer,Phorest,looker,data_engineer,zdalna,,16773,23962,PLN,20367.5,False
+data engineer,Ringier Axel Springer Tech,python,data_engineer,zdalna,,10100,16900,PLN,13500.0,False
+scala big data engineer,VirtusLab,spark,data_engineer,zdalna,,15000,22000,PLN,18500.0,False
+software engineer (scala) | big data,Adform Sp. z o.o.,scala,data_engineer,zdalna,,18000,21000,PLN,19500.0,False
+data engineer- junior,AVENGA,python,data_engineer,zdalna,,13440,16800,PLN,15120.0,False
+remote data engineer,Codahead,java,data_engineer,zdalna,,13440,22008,PLN,17724.0,False
+data engineer junior,AVENGA,python,data_engineer,zdalna,,13440,16800,PLN,15120.0,False
+senior data engineer,DATAPAO Kft.,python,data_engineer,zdalna,,13827,22626,PLN,18226.5,True
+junior data engineer,DATAPAO Kft.,python,data_engineer,budapest,HUN,7542,9427,PLN,8484.5,False
+senior data engineer,Hearsay,python,data_engineer,budapest,HUN,12570,20112,PLN,16341.0,True
+data engineer,IncepTech Kft.,,data_engineer,budapest,HUN,11313,22626,PLN,16969.5,False
+data engineer,Manuvia Expert Recruitment,,data_engineer,budapest,HUN,10056,16341,PLN,13198.5,False
+data engineer,Devire,,data_engineer,zdalna,,16000,20000,PLN,18000.0,False
+data engineer-senior,AVENGA,python,data_engineer,zdalna,,18480,20160,PLN,19320.0,True
+data engineer-pofessional,AVENGA,python,data_engineer,zdalna,,20160,21840,PLN,21000.0,False
+data engineer-pofessional,AVENGA,python,data_engineer,zdalna,,15960,16968,PLN,16464.0,False
+data engineer-pofessional,AVENGA,python,data_engineer,zdalna,,13440,16800,PLN,15120.0,False
+data engineer,IIIT,python,data_engineer,zdalna,,20000,30000,PLN,25000.0,False
+data engineer (blockchain analytics),Ramp Network,BigQuery,data_engineer,warszawa,POL,18000,24000,PLN,21000.0,False
+senior scala big data engineer,VirtusLab,scala,data_engineer,zdalna,,21000,27000,PLN,24000.0,True
+remote mid/senior data engineer,Planday,,data_engineer,zdalna,,20000,30000,PLN,25000.0,True
+gcp data engineer,GetInData,Google Cloud Platform,data_engineer,zdalna,,25200,33600,PLN,29400.0,False
+remote data engineer (mid-level),Propdo,AWS,data_engineer,zdalna,,12000,15000,PLN,13500.0,False
+big data engineer with java,Devire Sp. z o.o.,java,data_engineer,zdalna,,26880,31920,PLN,29400.0,False
+senior data engineer,IIIT,aws,data_engineer,zdalna,,25000,34000,PLN,29500.0,True
+remote data engineer,TantusData,spark,data_engineer,zdalna,,28000,40000,PLN,34000.0,False
+data engineer,Avanade Poland,azure,data_engineer,zdalna,,15120,25200,PLN,20160.0,False
+junior data engineer,kaes,SQL,data_engineer,malbork,POL,4000,7000,PLN,5500.0,False
+data engineer,Devire,SQL,data_engineer,zdalna,,31920,36960,PLN,34440.0,False
+data & process engineer (chemical eng.),IIIT,,data_engineer,zdalna,,25000,34000,PLN,29500.0,False
+azure big data engineer with python,Sii Polska,Azure,data_engineer,zdalna,,16800,29400,PLN,23100.0,False
+dwh/big data engineer,Sii Polska,,data_engineer,warszawa,POL,21000,26250,PLN,23625.0,False
+regular/senior cloud data engineer,IHS Markit,SQL,data_engineer,zdalna,,13000,19000,PLN,16000.0,True
+data engineer - technical leader,Acaisoft Poland Sp. z.o.o,python,data_engineer,zdalna,,27000,35000,PLN,31000.0,False
+senior/expert data engineer,Acaisoft Poland Sp. z.o.o,python,data_engineer,zdalna,,20000,33000,PLN,26500.0,True
+data engineer - technical leader,Acaisoft Poland Sp. z.o.o,python,data_engineer,zdalna,,27000,35000,PLN,31000.0,False
+backend engineer - data platform,Sumo Logic,,data_engineer,zdalna,,20000,28000,PLN,24000.0,False
+data engineer,AXA Avanssur SA Spółka Akcyjna Oddział II w Polsce,spark,data_engineer,zdalna,,17000,29000,PLN,23000.0,False
+senior data engineer (data science),BlackSwan Technologies,python,data_engineer,zdalna,,18000,26000,PLN,22000.0,True
+senior big data engineer,Devire,spark,data_engineer,zdalna,,26000,32000,PLN,29000.0,True
+junior data engineer,Business Reporting - Advisory Group (BRAG),,data_engineer,zdalna,,7500,10000,PLN,8750.0,False
+data quality engineer,Devire,python,data_engineer,zdalna,,20000,20000,PLN,20000.0,False
+mid / senior cloud data engineer,Capgemini,spark,data_engineer,kraków,POL,13000,20000,PLN,16500.0,True
+senior data engineer (data science hub),Allegro,python,data_engineer,warszawa,POL,16500,22500,PLN,19500.0,True
+mid data engineer (etl /aws /snowflake),"Svitla Systems, Inc.",,data_engineer,zdalna,,15292,24031,PLN,19661.5,False
+python engineer (retraining to big data),SoftServe Poland,python,data_engineer,zdalna,,13000,23000,PLN,18000.0,False
+data engineer-professional,AVENGA,python,data_engineer,zdalna,,16464,16800,PLN,16632.0,False
+bi data engineer,Link Group,,data_engineer,zdalna,,15120,18480,PLN,16800.0,False
+data engineer (data science hub),Allegro,python,data_engineer,warszawa,POL,12500,17000,PLN,14750.0,False
+it data engineer,B. Braun Business Services Poland,,data_engineer,poznań,POL,5000,7500,PLN,6250.0,False
+azure data engineer,Onwelo S.A.,Azure,data_engineer,zdalna,,13650,23100,PLN,18375.0,False
+data engineer,Insight (Division of nexergroup.com),,data_engineer,zdalna,,16000,26200,PLN,21100.0,False
+data engineer with python,Lingaro,python,data_engineer,zdalna,,13440,20160,PLN,16800.0,False
+senior data science engineer,NavAlgo,,data_engineer,zdalna,,23962,31949,PLN,27955.5,True
+junior data engineer,FOTC,SQL,data_engineer,zdalna,,5500,7500,PLN,6500.0,False
+sql data engineer,Onwelo S.A.,,data_engineer,zdalna,,13650,16800,PLN,15225.0,False
+mid python data engineer,Acaisoft Poland Sp. z.o.o,python,data_engineer,zdalna,,12000,19000,PLN,15500.0,False
+azure data engineer,Alterdata.io sp. z o.o.,data engineering,data_engineer,zdalna,,14000,22000,PLN,18000.0,False
+lead operational data engineer,Link Group Sp. z o. o.,,data_engineer,zdalna,,30240,33600,PLN,31920.0,False
+senior operational data engineer,Link Group Sp. z o. o.,,data_engineer,zdalna,,25200,30240,PLN,27720.0,True
+data engineer,esky.pl S.A.,python,data_engineer,zdalna,,11000,14000,PLN,12500.0,False
+operational data engineer,Link Group Sp. z o. o.,,data_engineer,zdalna,,20160,23520,PLN,21840.0,False
+big data engineer,Allegro,spark,data_engineer,poznań,POL,12500,17000,PLN,14750.0,False
+senior big data engineer,Allegro,spark,data_engineer,poznań,POL,16500,22500,PLN,19500.0,True
+data engineer,Surfer,python,data_engineer,zdalna,,15000,30000,PLN,22500.0,False
+data engineer,Orange Polska,python,data_engineer,warszawa,POL,9000,18000,PLN,13500.0,False
+etl data engineer-professional,AVENGA,python,data_engineer,zdalna,,16464,16800,PLN,16632.0,False
+remote big data software engineer,SoftServe,hadoop,data_engineer,zdalna,,16000,24000,PLN,20000.0,False
+senior data & energy engineer,IIIT,,data_engineer,zdalna,,25000,34000,PLN,29500.0,True
+data engineer/ sql developer,CBRE Business Services Organisation,SQL,data_engineer,zdalna,,17000,23000,PLN,20000.0,False
+python data engineer,Placewise,python,data_engineer,kraków,POL,17000,21000,PLN,19000.0,False
+mlops / data science engineer,Volue,,data_engineer,gdańsk,POL,18500,23500,PLN,21000.0,False
+data engineer,Link Group,,data_engineer,zdalna,,19169,31150,PLN,25159.5,False
+data warehouse engineer,Zonda Exchange,sql,data_engineer,zdalna,,17000,32000,PLN,24500.0,False
+lead data engineer  (remote),Mindbox,,data_engineer,zdalna,,29400,32550,PLN,30975.0,False
+data engineer,STX Next,spark,data_engineer,zdalna,,16800,25200,PLN,21000.0,False
+azure data engineer with pyspark,Lingaro,Azure,data_engineer,zdalna,,26880,30240,PLN,28560.0,False
+"data engineer (sql, python, cloud)",Alterdata.io sp. z o.o.,data engineering,data_engineer,zdalna,,14000,22000,PLN,18000.0,False
+remote senior aws data engineer,ClearScale,scala,data_engineer,zdalna,,28000,38000,PLN,33000.0,True
+dwh/big data engineer,Sii Polska,,data_engineer,warszawa,POL,21000,26250,PLN,23625.0,False
+senior data analytics engineer,Coforge,,data_engineer,zdalna,,46200,46200,PLN,46200.0,True
+middle/senior data engineer (python),Provectus,,data_engineer,zdalna,,10923,21847,PLN,16385.0,True
+senior scala big data engineer,Altimetrik Poland,spark,data_engineer,zdalna,,20000,28000,PLN,24000.0,True
+senior data engineer,Coople,,data_engineer,zdalna,,18000,33000,PLN,25500.0,True
+data engineer,GetInData,java,data_engineer,zdalna,,20160,30240,PLN,25200.0,False
+data engineer,GetInData,aws,data_engineer,zdalna,,20160,30240,PLN,25200.0,False
+data scientist / ml engineer,SpyroSoft,,data_engineer,wrocław,POL,18480,21840,PLN,20160.0,False
+data engineer,Devire,python,data_engineer,zdalna,,13440,18480,PLN,15960.0,False
+remote data science engineer,apreel Sp. z o.o.,python,data_engineer,zdalna,,20160,28560,PLN,24360.0,False
+data engineer,Shiji Poland,spark,data_engineer,zdalna,,15000,20000,PLN,17500.0,False
+data engineer,Sollers Consulting,,data_engineer,warszawa,POL,13000,18000,PLN,15500.0,False
+bi developer / data engineer,Objectivity,,data_engineer,zdalna,,17600,25000,PLN,21300.0,False

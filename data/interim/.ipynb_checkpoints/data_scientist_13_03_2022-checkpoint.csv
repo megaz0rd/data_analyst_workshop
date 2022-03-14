@@ -1,0 +1,19 @@
+name,company,technology,job,location,salary.low,salary.high,salary.currency,location.city,location.country
+Data Scientist,Altimetrik Poland,AWS,data_scientist,Location not given,18000,22000,PLN,,
+Data Scientist,GetInData,python,data_scientist,Location not given,20160,30240,PLN,,
+Senior Data Scientist,IIIT,python,data_scientist,Location not given,20000,28000,PLN,,
+Junior Data Scientist,Cenatorium,python,data_scientist,,4500,6500,PLN,Warszawa,POL
+Data Scientist,Grupa Invicta,N/A,data_scientist,,7000,12500,PLN,Sopot,POL
+Data Scientist,Manuvia Expert Recruitment,N/A,data_scientist,,10684,13827,PLN,Budapest,HUN
+Data Scientist (Mid/Senior),Onwelo S.A.,N/A,data_scientist,Location not given,13650,17850,PLN,,
+Lead Data Scientist,Adform Sp. z o.o.,hadoop,data_scientist,,22000,30000,PLN,Warsaw,POL
+Remote Senior Data Scientist,Silent Eight,python,data_scientist,Location not given,21000,25500,PLN,,
+Data scientist,SKYBLU,N/A,data_scientist,Location not given,10080,20160,PLN,,
+Senior Data Scientist,InData Labs,data science,data_scientist,Location not given,19169,28754,PLN,,
+Data Scientist / ML Engineer,SpyroSoft,N/A,data_scientist,,18480,21840,PLN,Wroclaw,POL
+Expert Data Scientist,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,N/A,data_scientist,Location not given,10000,16000,PLN,,
+Senior Data Scientist,Moneyflow,python,data_scientist,Location not given,14377,19169,PLN,,
+Remote Data Scientist,AVENGA,python,data_scientist,Location not given,15120,24360,PLN,,
+Remote Data Science Engineer,apreel Sp. z o.o.,python,data_scientist,Location not given,20160,28560,PLN,,
+Senior Data Scientist,Ework Group,spark,data_scientist,Location not given,18000,25000,PLN,,
+Data Scientist,Pixel Technology Sp. z o.o.,python,data_scientist,,8000,16000,PLN,Łódź,POL

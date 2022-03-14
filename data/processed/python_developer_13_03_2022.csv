@@ -1,0 +1,101 @@
+name,company,technology,job,location.city,location.country,salary.low,salary.high,salary.currency,salary.avg,is_senior
+fullstack developer (react & python),Semantive,react,python_developer,zdalna,,9000,14000,PLN,11500.0,False
+python developer z biologią / chemią,Code Poets sp. z o.o.,python,python_developer,zdalna,,11760,20160,PLN,15960.0,False
+senior python developer (remote/hybrid),Tango,python,python_developer,zdalna,,17000,26000,PLN,21500.0,True
+ai/ml python developer,AVENGA,python,python_developer,zdalna,,20160,29400,PLN,24780.0,False
+senio/mid python developer,Devire Sp. z o.o.,python,python_developer,zdalna,,17000,21000,PLN,19000.0,False
+python developer,SmartWays Sp z o.o.,python,python_developer,zdalna,,17000,28000,PLN,22500.0,False
+python developer,Amsterdam Standard Sp. z o.o.,python,python_developer,zdalna,,10000,18000,PLN,14000.0,False
+mid python developer with aws,Codete,python,python_developer,zdalna,,16000,23000,PLN,19500.0,False
+fullstack python developer,Collabera Poland Sp. z o.o.,python,python_developer,zdalna,,25200,31080,PLN,28140.0,False
+mid/ senior python developer,Vewd Software Poland Sp. z o.o.,python,python_developer,zdalna,,16000,21000,PLN,18500.0,True
+senior python developer,Merixstudio,python,python_developer,zdalna,,15500,22000,PLN,18750.0,True
+python (pyspark) developer,Link Group,python,python_developer,zdalna,,20160,25200,PLN,22680.0,False
+python developer with azure,AVENGA,python,python_developer,zdalna,,19320,21840,PLN,20580.0,False
+python developer,Webinterpret,python,python_developer,zdalna,,15000,21000,PLN,18000.0,False
+fullstack python developer,Ework Group,python,python_developer,zdalna,,25200,30240,PLN,27720.0,False
+python developer,SpotOn,python,python_developer,zdalna,,14000,19000,PLN,16500.0,False
+senior python developer,Sky and Space Co,python,python_developer,zdalna,,20000,27000,PLN,23500.0,True
+python developer-senior,AVENGA,python,python_developer,zdalna,,20160,21840,PLN,21000.0,True
+python developer at eco impact startup,Planbe Eco,python,python_developer,zdalna,,12000,18000,PLN,15000.0,False
+python developer,Amartus Polska Sp. z o.o.,python,python_developer,kraków,POL,9000,15000,PLN,12000.0,False
+junior python developer,IDEA team within Narodowe Centrum Badań Jądrowych,python,python_developer,warszawa,POL,7000,10000,PLN,8500.0,False
+python developer,Contina Sp. z o.o.,python,python_developer,zdalna,,7000,12000,PLN,9500.0,False
+remote python developer,Remedy,python,python_developer,zdalna,,10923,17477,PLN,14200.0,False
+senior big data developer with python,Devire Sp. z o.o.,python,python_developer,zdalna,,26880,31920,PLN,29400.0,True
+senior python developer,SpotOn,python,python_developer,zdalna,,20000,28000,PLN,24000.0,True
+junior fullstack python developer,DahliaMatic Sp. z o.o.,python,python_developer,zdalna,,16000,23000,PLN,19500.0,False
+python developer,Toro Performance,python,python_developer,zdalna,,11000,22000,PLN,16500.0,False
+senior python developer,Enzode,python,python_developer,warszawa,POL,15000,22000,PLN,18500.0,True
+junior python developer (szczecin),umlaut Sp. z o.o.,python,python_developer,szczecin,POL,5500,9000,PLN,7250.0,False
+python developer,DEVnet High Performance Solutions Sp. z o.o.,python,python_developer,wrocław,POL,12300,19500,PLN,15900.0,False
+"senior python developer i aws, fintech",JCommerce Sp z o o,python,python_developer,zdalna,,22680,25200,PLN,23940.0,True
+junior python developer,Sense Street,python,python_developer,zdalna,,10000,13000,PLN,11500.0,False
+junior python developer,Boring Owl Sp. z o.o.,python,python_developer,zdalna,,5000,7000,PLN,6000.0,False
+remote junior python developer,DTiQ,python,python_developer,zdalna,,5000,8000,PLN,6500.0,False
+python developer,Docmatic sp. z o.o.,python,python_developer,kraków,POL,6000,10000,PLN,8000.0,False
+php/python developer,OPGK S.A.,php,python_developer,rzeszów,POL,4000,6000,PLN,5000.0,False
+junior c++/python  developer (r&d),EXATEL S.A.,c++,python_developer,zdalna,,5000,8000,PLN,6500.0,False
+junior python developer,Grupa ZPR Media,sql,python_developer,warszawa,POL,10000,10000,PLN,10000.0,False
+market risk python/java developer,IDBC Creative Solutions Kft.,java,python_developer,budapest,HUN,8799,13827,PLN,11313.0,False
+python backend developer,SEON Technologies Kft.,python,python_developer,budapest,HUN,12570,18855,PLN,15712.5,False
+python developer,Mobile Vikings,python,python_developer,wrocław,POL,13000,18000,PLN,15500.0,False
+python developer,Chargify,python,python_developer,zdalna,,17000,28000,PLN,22500.0,False
+junior python (ai) developer,VlogIT,python,python_developer,warszawa,POL,8000,13000,PLN,10500.0,False
+python developer,EPAM,python,python_developer,zdalna,,9000,14000,PLN,11500.0,False
+middle/senior python developer (django),Spyrosoft,python,python_developer,warszawa,POL,11760,23520,PLN,17640.0,True
+remote python django developer,Camino Science Sp. z o. o.,python,python_developer,zdalna,,14000,21000,PLN,17500.0,False
+mid python django developer,Phoenix Project,python,python_developer,zdalna,,8000,13000,PLN,10500.0,False
+remote python big data developer,Exadel,python,python_developer,zdalna,,20000,24000,PLN,22000.0,False
+python senior developer- remote/wroclaw,Sofomo,python,python_developer,zdalna,,12000,20000,PLN,16000.0,True
+junior fullstack python developer,People Trust Sp. z o.o.,python,python_developer,zdalna,,16800,30240,PLN,23520.0,False
+python test developer,Solwit,python,python_developer,zdalna,,8000,14000,PLN,11000.0,False
+remote python developer,Fudo Security EMEA,python,python_developer,zdalna,,12000,16000,PLN,14000.0,False
+mid python backend developer,Amano,python,python_developer,warszawa,POL,12000,16000,PLN,14000.0,False
+fullstack python developer,Grape Up,python,python_developer,zdalna,,16600,22600,PLN,19600.0,False
+fullstack python developer,DahliaMatic Sp. z o.o.,python,python_developer,warszawa,POL,19000,38000,PLN,28500.0,False
+python developer,Devire,python,python_developer,zdalna,,20160,22680,PLN,21420.0,False
+junior python / odoo developer,Green Minds Sp.z o.o.,python,python_developer,zdalna,,13440,15120,PLN,14280.0,False
+junior fullstack python developer,Multiwash | CarWash App,python,python_developer,warszawa,POL,6000,12000,PLN,9000.0,False
+remote python developer,SoftServe,python,python_developer,zdalna,,12000,22000,PLN,17000.0,False
+fullstack developer (python/angular 8+),Solwit SA,python,python_developer,zdalna,,16000,22000,PLN,19000.0,False
+python developer,Deskset Software Sp. z o.o.,python,python_developer,zdalna,,14000,25000,PLN,19500.0,False
+junior python django developer,Phoenix Project,python,python_developer,zdalna,,6000,10000,PLN,8000.0,False
+python developer,360 Code Lab Sp. z o.o.,python,python_developer,zdalna,,19000,22000,PLN,20500.0,False
+senior python developer,Sigma IT Polska,python,python_developer,zdalna,,15000,25000,PLN,20000.0,True
+remote python developer,Silent Eight,python,python_developer,zdalna,,14000,23000,PLN,18500.0,False
+remote senior python developer,Silent Eight,python,python_developer,zdalna,,23000,28000,PLN,25500.0,True
+junior python developer,Codibly,python,python_developer,zdalna,,6500,11500,PLN,9000.0,False
+remote python developer,SoftKraft,python,python_developer,zdalna,,14000,16000,PLN,15000.0,False
+python developer,Packhelp,python,python_developer,warszawa,POL,13000,18000,PLN,15500.0,False
+backend python developer,Operibus Sp. z o.o.,python,python_developer,wrocław,POL,14000,18000,PLN,16000.0,False
+python developer,ALM Services Technology Group,python,python_developer,zdalna,,15000,25000,PLN,20000.0,False
+python developer,10Clouds,python,python_developer,zdalna,,6500,10000,PLN,8250.0,False
+python developer,Synapsi.xyz,python,python_developer,zdalna,,8000,16000,PLN,12000.0,False
+senior python developer / team lead,Codibly,python,python_developer,kraków,POL,18000,25000,PLN,21500.0,True
+lead python developer,EPAM,python,python_developer,zdalna,,14000,21000,PLN,17500.0,False
+senior python developer,EPAM,python,python_developer,zdalna,,12000,18000,PLN,15000.0,True
+regular python developer (gaming),Sunscrapers,python,python_developer,zdalna,,16000,22000,PLN,19000.0,False
+python developer - junior,Sport Algorithmics and Gaming (SAG),python,python_developer,warszawa,POL,6000,12000,PLN,9000.0,False
+python/c++ developer,CloudBest,python,python_developer,zdalna,,20000,25000,PLN,22500.0,False
+(junior) python developer,InsERT S.A.,python,python_developer,wrocław,POL,9000,13000,PLN,11000.0,False
+remote python developer,Roche,python,python_developer,zdalna,,15000,20000,PLN,17500.0,False
+python developer,User.com,python,python_developer,zdalna,,10000,17000,PLN,13500.0,False
+python developer,ING BANK ŚLĄSKI SPÓŁKA AKCYJNA,python,python_developer,zdalna,,9000,14000,PLN,11500.0,False
+fullstack python developer,Ulam Labs,python,python_developer,wrocław,POL,16000,23000,PLN,19500.0,False
+junior python developer,Link Group,python,python_developer,warszawa,POL,7000,10000,PLN,8500.0,False
+python data developer,Onwelo S.A.,python,python_developer,zdalna,,14700,25200,PLN,19950.0,False
+senior python developer,Harvey Nash Technology,python,python_developer,warszawa,POL,21000,25000,PLN,23000.0,True
+senior python developer (remote/hybrid),Dealavo,python,python_developer,zdalna,,16000,25000,PLN,20500.0,True
+python developer,RTB House,python,python_developer,zdalna,,25000,35000,PLN,30000.0,False
+python developer,Volvo Group,python,python_developer,zdalna,,10000,16000,PLN,13000.0,False
+junior python developer,Integree sp. z o.o.,python,python_developer,zdalna,,4000,8000,PLN,6000.0,False
+remote python developer,Montrose Software,python,python_developer,zdalna,,9000,18000,PLN,13500.0,False
+remote python backend developer,umlaut Sp. z o.o.,python,python_developer,zdalna,,9340,15518,PLN,12429.0,False
+fullstack python developer,Collabera Poland Sp. z o.o.,python,python_developer,zdalna,,25200,30240,PLN,27720.0,False
+mid python developer (future fullstack),CIC Poland Sp. z o.o.,python,python_developer,warszawa,POL,16000,19000,PLN,17500.0,False
+python developer,DO OK,python,python_developer,zdalna,,8400,16000,PLN,12200.0,False
+python developer with blockchain,Code Poets,python,python_developer,zdalna,,15120,20160,PLN,17640.0,False
+senior python developer,7bulls.com sp. z o.o.,python,python_developer,zdalna,,23520,28560,PLN,26040.0,True
+fullstack python developer,Deskset Software Sp. z o.o.,python,python_developer,zdalna,,12000,19000,PLN,15500.0,False
+python developer,Link Group,python,python_developer,zdalna,,17000,27000,PLN,22000.0,False
